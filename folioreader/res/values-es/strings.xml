@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lector de ePub</string>
+
+    <string name="less_than_minute">Menos de 1 minuto</string>
+    <string name="minute_left">%1$d minuto ·&#160;</string>
+    <string name="minutes_left">%1$d minutos ·&#160;</string>
+
+    <string name="copied">Copiado</string>
+    <string name="send_to">Enviar</string>
+
+    <string name="copy">Copiar</string>
+    <string name="share">Compartir</string>
+    <string name="define">Diccionario</string>
+    <string name="highlight">Destacar</string>
+
+    <string name="pages_left">%1$d páginas restantes</string>
+    <string name="page_left">Queda %1$d página</string>
+    <string name="highlights">Destacados</string>
+    <string name="bookmarks">Marcadores</string>
+    <string name="style">Estilo</string>
+
+    <string name="titlesMeta">&lt;tr&gt;&lt;td&gt;Títulos:&lt;/td&gt;</string>
+    <string name="authorsMeta">&lt;tr&gt;&lt;td&gt;Autores:&lt;/td&gt;</string>
+    <string name="contributorsMeta">&lt;tr&gt;&lt;td&gt;Colaboradores:&lt;/td&gt;</string>
+    <string name="languageMeta">&lt;tr&gt;&lt;td&gt;Idioma:&lt;/td&gt;&lt;td&gt;</string>
+    <string name="publishersMeta">&lt;tr&gt;&lt;td&gt;Editoriales:&lt;/td&gt;</string>
+    <string name="rightsMeta">&lt;tr&gt;&lt;td&gt;Derechos:&lt;/td&gt;</string>
+    <string name="tocReference">&lt;tr&gt;&lt;td&gt;Tabla de Contenido:&lt;/td&gt;</string>
+
+    <string name="change_Font">Cambiar fuente</string>
+    <string name="change_Font_Color">Color de la fuente</string>
+    <string name="changeStyle">Cambiar estilo</string>
+    <string name="error_CannotChangeStyle">No se puede cambiar el estilo</string>
+    <string name="OK">Ok</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="SetSizeTitle">Panel superior</string>
+    <string name="LanguageChooserTitle">Escoga dos lenguajes:</string>
+    <string name="loading">Cargando</string>
+    <string name="please_wait">Espere por favor...</string>
+    <string name="please_wait_till_audio_is_parsed">Por favor espere hasta que el audio haya
+        cargado, reintente en un rato.</string>
+
+    <string name="edit_notes">Guardar nota</string>
+    <string name="save_note">Guardar</string>
+    <string name="please_enter_note">Escriba una nota</string>
+    <string name="book_mark_success">Guardado!</string>
+    <string name="save_bookmark">Guardar</string>
+    <string name="contents">Contenido</string>
+    <string name="dictionary">Diccionario</string>
+    <string name="cannot_access_epub_message">Sin permiso para acceder al epub</string>
+
+    <string name="menu_item_search">Buscar</string>
+    <string name="menu_item_config">Configuración</string>
+    <string name="menu_item_tts">Texto a Voz</string>
+
+    <string name="search_hint">Buscar en el libro</string>
+    <string name="search_empty_text">Sin resultados.</string>
+    <string name="search_failure_text">Ha ocurrido un error.</string>
+
+</resources>

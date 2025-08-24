@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">FolioReader</string>
+    <string name="app_name">ePub Reader</string>
 
     <string name="andada">Andada</string>
     <string name="lato">Lato</string>
@@ -66,8 +66,10 @@
     <string name="please_wait">please wait...</string>
     <string name="one_and_half_speed"><![CDATA[1<sup>1</sup>/<sub>2</sub>x]]></string>
     <string name="half_speed_text"><![CDATA[<sup>1</sup>/<sub>2</sub>x]]></string>
-    <string name="please_wait_till_audio_is_parsed">please wait till audio is been parsed, Retry after some time</string>
-    <string name="audio_mark_id">javascript:alert(audioMarkID(\'epub-media-overlay-playing\',\'%s\'))</string>
+    <string name="please_wait_till_audio_is_parsed">please wait till audio is been parsed, Retry
+        after some time</string>
+    <string name="audio_mark_id">
+        javascript:alert(audioMarkID(\'epub-media-overlay-playing\',\'%s\'))</string>
     <string name="setmediaoverlaystyle">javascript:setMediaOverlayStyle(\'%s\')</string>
     <string name="go_to_anchor" translatable="false">javascript:goToAnchor(\'%s\')</string>
     <string name="go_to_highlight" translatable="false">javascript:goToHighlight(\'%s\')</string>
@@ -116,7 +118,8 @@
     <!-- JS Calls -->
     <string name="callComputeLastReadCfi" translatable="false">javascript:computeLastReadCfi()</string>
     <string name="callScrollToCfi" translatable="false">javascript:scrollToCfi(\"%s\")</string>
-    <string name="callHighlightSearchLocator" translatable="false">javascript:highlightSearchLocator(\"%s\")</string>
+    <string name="callHighlightSearchLocator" translatable="false">
+        javascript:highlightSearchLocator(\"%s\")</string>
     <string name="callClearSelection" translatable="false">javascript:clearSelection()</string>
 
 </resources>
