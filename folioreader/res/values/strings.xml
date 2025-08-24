@@ -95,6 +95,8 @@
     <string name="debug_start_unable_drag">Starting unable to drag!</string>
     <string name="dictionary">Dictionary</string>
     <string name="wikipedia">Wikipedia</string>
+    <string name="google_search">Google search</string>
+    <string name="offline">Offline</string>
     <string name="cannot_access_epub_message">Cannot open epub it needs storage access !</string>
     <string name="direction_horizontal">Horizontal</string>
     <string name="direction_vertical">Vertical</string>
@@ -106,6 +108,7 @@
     <string name="menu_item_config">Configuration</string>
     <string name="menu_item_tts">Text To Speech</string>
 
+    <string name="bookmark_hint">Bookmark name</string>
     <string name="search_hint">Search In Book</string>
     <string name="search_empty_text">No results.</string>
     <string name="search_failure_text">Something wen\'t wrong.</string>
