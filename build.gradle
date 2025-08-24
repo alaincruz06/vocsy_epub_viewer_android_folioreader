@@ -40,5 +40,5 @@ tasks.register('clean', Delete) {
 }
 
 tasks.register("publishToMavenLocal") {
-    dependsOn(":sample:publishToMavenLocal")
+    dependsOn(":FolioReader:publishToMavenLocal")
 }
